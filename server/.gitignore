@@ -1,0 +1,11 @@
+.cache
+build
+.strapi-updater.json
+.env
+.env.*
+node_modules
+logs
+*.log
+npm-debug.log*
+*.sqlite
+*.sqlite3
